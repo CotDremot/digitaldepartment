@@ -1,0 +1,35 @@
+.color
+{
+    background-color: #000;
+}
+
+#carouselExampleCaptions .carousel-item img
+{
+    object-fit: cover;
+    object-position: center;
+    height: 70hv;
+    overflow: hidden;
+}
+
+.cards
+{
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.foto
+{
+    margin: 15px;
+    width: 60%;
+    max-width: 200px;
+    flex-direction: column;
+}
+
+.text
+{
+    color: #ffffff;
+}
